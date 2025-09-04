@@ -15,7 +15,7 @@
 ### 👨‍💻 What I Do
 
 - 🎯 **Current Focus:** Building **TypeArcade** (MERN + Socket.io)
-- 📚 **Learning:** Distributed Systems & Cloud Native Technologies
+- 📚 **Learning:** Distributed Systems & Java, Springboot
 - ✨ **Interests:** Backend Architecture, Real-time Applications, Open Source
 
 ### 🛠️ Tech Stack
