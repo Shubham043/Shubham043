@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Shubham043?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge" alt="Projects">
+    <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge" alt="Projects">
   </a>
   <a href="https://leetcode.com/u/yourprofile/">
     <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-orange?style=for-the-badge" alt="LeetCode">
