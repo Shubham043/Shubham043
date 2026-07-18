@@ -14,7 +14,7 @@
 
 ### 👨‍💻 What I Do
 
-- 🎯 **Current Focus:** Building **TypeArcade** (MERN + Socket.io)
+- 🎯 **Current Focus:** Building **Project AI** (Nestjs + RAG)
 - 📚 **Learning:** Distributed Systems & Java, Springboot
 - ✨ **Interests:** Backend Architecture, Real-time Applications, Open Source
 
